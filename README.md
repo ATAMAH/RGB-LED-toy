@@ -3,20 +3,20 @@ This toy changes colors when you scroll the mouse wheel.
 
 Based on Arduino Pro Mini board:
 
-[![photo](how_to_flash_arduino_pro_mini.jpg | width=300)]
+[![photo](how_to_flash_arduino_pro_mini.jpg)]
 
 Wheel with encoder from any PC mouse:
 
-[![photo](mouse_wheel_encoder.jpg | width=300)]
-[![photo](unsoldered_encoder.jpg | width=300)]
+[![photo](mouse_wheel_encoder.jpg)]
+[![photo](unsoldered_encoder.jpg)]
 
 Print the case.STL file:
 
-[![photo](sliced.png | width=300)]
+[![photo](sliced.png)]
 
 Solder all together and assemble with a hot glue gun:
 
-[![photo](assembled.jpg | width=300)]
+[![photo](assembled.jpg)]
 
 Result:
 
